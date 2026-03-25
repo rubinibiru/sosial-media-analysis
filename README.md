@@ -1,2 +1,2 @@
 # sosial-media-analysis
-projek uts
+projek ini digunakan untuk penugasan UTS mata kuliah data sains
